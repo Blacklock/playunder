@@ -32,6 +32,6 @@ pytest-django==3.4.2
 pytz==2018.5
 pywin32==223
 six==1.11.0
-Twisted==18.7.0
+Twisted==20.3.0
 txaio==18.7.1
 zope.interface==4.5.0
