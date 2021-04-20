@@ -22,7 +22,7 @@ more-itertools==4.3.0
 msgpack==0.5.6
 pluggy==0.7.1
 psycopg2==2.7.5
-py==1.5.4
+py==1.10.0
 pycparser==2.18
 PyHamcrest==1.9.0
 pypiwin32==223
